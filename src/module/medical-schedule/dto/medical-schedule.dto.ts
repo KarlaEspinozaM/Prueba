@@ -6,7 +6,7 @@ import {
   IsOptional,
   IsPositive,
   IsString,
-} from 'class';
+} from 'class-validator';
 import { medicalAppointmentDto } from 'src/module/medical-appointment/dto/medical-appointment.dto';
 
 export class medicalScheduleDto {
